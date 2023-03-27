@@ -1,4 +1,4 @@
-const credentials = require('./.credentials.development')
+const credentials = require('./.credentials.development.json')
 
 const cookieParser = require('cookie-parser');
 const expressSession =require('express-session')
